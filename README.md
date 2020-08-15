@@ -6,12 +6,16 @@ Please leave a star if you like the effort, and feel free to contribute.
 
 
 ## Dynamic Programming:
-1. Edit Distance
-	Leetcode Question: https://leetcode.com/problems/edit-distance/
-	Solution: edit_distance_2/edit_distance_2.java
+1. Edit Distance <br />
+	Leetcode Question: https://leetcode.com/problems/edit-distance/ <br />
+	Solution: https://github.com/praharshbhatt/leetcode_questions_solved/blob/master/edit_distance_2/edit_distance_2.java <br />
 
 ## Depth-first Search:
-1. Recover Binary Search Tree
-	Leetcode Question: https://leetcode.com/problems/recover-binary-search-tree/
-	Solution: recover-binary-search-tree/recover-binary-search-tree.java
-		
+1. Recover Binary Search Tree <br />
+	Leetcode Question: https://leetcode.com/problems/recover-binary-search-tree/ <br />
+	Solution: https://github.com/praharshbhatt/leetcode_questions_solved/blob/master/recover-binary-search-tree/recover-binary-search-tree.java <br />
+
+
+2. Same Tree <br />
+	Leetcode Question: https://leetcode.com/problems/same-tree/ <br />
+	Solution: https://github.com/praharshbhatt/leetcode_questions_solved/blob/master/same-tree/same-tree.java <br />
