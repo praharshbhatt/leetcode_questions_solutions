@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LeetcodeQuestionsSolvedJava.RecoverBinarySearchTree;
+package LeetcodeQuestionsSolvedJava.recover_binary_search_tree;
 
 import java.util.ArrayList;
 import java.util.List;
